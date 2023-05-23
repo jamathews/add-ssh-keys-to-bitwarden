@@ -1,0 +1,4 @@
+export BW_CLIENTID=exampleclientid
+export BW_CLIENTSECRET=exampleclientsecret
+export TARGET_FOLDER_ID=examplefolderid
+
